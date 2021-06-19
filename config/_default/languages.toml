@@ -15,7 +15,7 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 ############################# Portuguese ############################
 [pt-br]
 languageName = "Português"
-title = "Pleke - Liberdade Financeira"
+title = "Pleke - Liberdade  Financeira"
 contentDir = "content/pt-br" # content/german
 weight = 2
 ########### footer content ##########
