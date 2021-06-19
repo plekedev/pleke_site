@@ -1,2 +1,4 @@
-# pleke_site
-Pleke site
+# pleke-site
+site for pleke a personal finance app
+
+.
