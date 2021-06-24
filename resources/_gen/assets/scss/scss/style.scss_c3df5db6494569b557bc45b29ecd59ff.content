@@ -66,7 +66,6 @@ h6,
   font-size: 16px;
   font-family: "Lato", sans-serif;
   font-weight: 600;
-  text-transform: capitalize;
   padding: 15px 30px;
   border-radius: 30px;
   border: 0;
@@ -271,7 +270,6 @@ textarea.form-control {
 .nav-item {
   margin: 0; }
   .nav-item .nav-link {
-    text-transform: capitalize;
     font-weight: 700; }
 
 .navbar-light .navbar-nav .nav-link {

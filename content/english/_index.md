@@ -1,14 +1,16 @@
 ---
 banner:
-  title: Let 1 us solve your critical website <br> development challenges
+  title: Build your Financial Freedom
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Pay off debt, build an emergency fund, plan large purchases
   button:
     enable: true
-    label: Contact With Us
-    link: contact
+    label: Get iPhone App
+    link: "https://apps.apple.com/pk/app/pleke-finance-manager/id1521695568"
+  button2:
+    enable: true
+    label: Get Android App
+    link: "https://play.google.com/store/apps/details?id=com.pleke.android_app"
 feature:
   enable: true
   title: Something You Need To Know
