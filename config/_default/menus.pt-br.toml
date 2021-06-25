@@ -1,6 +1,6 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Principal"
 url = "/"
 weight = 1
 
@@ -10,21 +10,21 @@ url = "blog"
 weight = 2
 
 [[main]]
-name = "FAQ"
+name = "Perguntas Frequentes"
 url = "faq"
 weight = 5
 
 # footer menu left
 [[footer_left]]
-name = "FAQ"
-url = "faq"
+name = "Perguntas Frequentes"
+url = "perguntas"
 
 # footer menu middle
 [[footer_middle]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Política de Privacidade"
+url = "privacidade"
 
 # footer menu right
 [[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+name = "Termos e Condições"
+url = "termos"

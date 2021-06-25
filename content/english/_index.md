@@ -1,7 +1,7 @@
 ---
 banner:
   title: Build your Financial Freedom
-  image: images/en-us-hero-img.png
+  image: images/hero-img.png
   content: Pay off debt, build an emergency fund, plan large purchases
   button:
     enable: true
@@ -13,53 +13,46 @@ banner:
     link: "https://play.google.com/store/apps/details?id=com.pleke.android_app"
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Finances Under Control
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
-    icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
-    icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Budget
+    icon: fas fa-calendar-alt
+    content: Create a budget and view how much is left per category
+  - name: Track
+    icon: fas fa-money-bill-wave
+    content: Track your expenses easily with autocomplete fields
+  - name: Credit Card
+    icon: fas fa-credit-card
+    content: Control your credit card bill to pay it in full
+  - name: Fight Debt
+    icon: fas fa-fire-alt
+    content: Get rid of debt by spending less than you earn
+  - name: Watch
+    icon: fas fa-file-invoice-dollar
+    content: Avoid overdraft fees watching current and projected balances of accounts
+  - name: Save
+    icon: fas fa-bullseye
+    content: save money for what really matters
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Control All Accounts
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/screenshot-1.png
+    - images/screenshot-2.png
+    - images/screenshot-3.png
+    content: View completed and scheduled transactions, current and projected balance
+      of all accounts in one place - money, bank accounts, credit cards, savings.
     button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: It is a privately owned Information and cyber security company
+      enable: false
+      label: ""
+      link: ""
+  - title: Credit Card Bill
     images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    - images/screenshot-4.png
+    content: Know the projected amount of the credit card will before it is closed to plan its payment in full.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
