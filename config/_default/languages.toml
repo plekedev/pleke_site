@@ -1,13 +1,13 @@
 ############################# English ############################
 [en]
-languageName = "English1"
-title = "Pleke - Financial Freedom"
+languageName = "English2"
+title = "Pleke - Personal Finance App"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
+footer_menu_left = "Support"
+footer_menu_middle = "Privacy"
+footer_menu_right = "Terms of Use"
 footer_content = "Personal Finance App"
 # copyright
 copyright = "Copyright 2020-2021 Mauricio Macedo"
@@ -15,13 +15,13 @@ copyright = "Copyright 2020-2021 Mauricio Macedo"
 ############################# Portuguese ############################
 [pt-br]
 languageName = "Português"
-title = "Pleke - Liberdade  Financeira"
+title = "Pleke - App de Controle Financeiro"
 contentDir = "content/pt-br" # content/german
 weight = 2
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
+footer_menu_left = "Suporte"
+footer_menu_middle = "Privacidade"
+footer_menu_right = "Termos de Uso"
 footer_content = "App de Controle Financeiro"
 # copyright
 copyright = "Copyright 2020-2021 Mauricio Macedo"

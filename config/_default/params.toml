@@ -1,9 +1,9 @@
 #################### default parameters ################################
-logo = "images/logo.png"
-logo_width = "200px"
+logo = "/images/logo.png"
+logo_width = "150px"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "Pleke is a personal finance app to create a budget, save more and reach financial freedom"
+author = "Pleke"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -15,14 +15,14 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [navigation_button]
-enable = true
+enable = false
 label = "Get Started"
 link = "contact"
 
 # cookies
 [cookies]
 enable = false
-expire_days = 2
+expire_days = 200
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
   

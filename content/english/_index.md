@@ -1,7 +1,7 @@
 ---
 banner:
   title: Build your Financial Freedom
-  image: images/banner-art.svg
+  image: images/en-us-hero-img.png
   content: Pay off debt, build an emergency fund, plan large purchases
   button:
     enable: true
