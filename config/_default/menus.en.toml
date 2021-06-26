@@ -5,14 +5,9 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
-weight = 2
-
-[[main]]
 name = "FAQ"
 url = "faq"
-weight = 5
+weight = 2
 
 # footer menu left
 [[footer_left]]
@@ -22,9 +17,9 @@ url = "faq"
 # footer menu middle
 [[footer_middle]]
 name = "Privacy Policy"
-url = "privacy-policy"
+url = "privacy"
 
 # footer menu right
 [[footer_right]]
 name = "Terms & Conditions"
-url = "terms-conditions"
+url = "terms"

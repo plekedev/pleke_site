@@ -146,6 +146,11 @@
         <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
         {{ end }}
         {{ end }}
+        {{ if .button2.enable }}
+        {{ with .button2 }}
+        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
