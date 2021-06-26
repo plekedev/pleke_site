@@ -1,8 +1,8 @@
 ############################# English ############################
 [en]
-languageName = "English2"
-title = "Pleke - Personl Finance App"
-contentDir = "content/english" # content/english
+languageName = "English"
+title = "Pleke - Personal Finance App"
+contentDir = "content/en" # content/en
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Support"
@@ -13,10 +13,10 @@ footer_content = "Personal Finance App"
 copyright = "Copyright 2020-2021 Mauricio Macedo"
 
 ############################# Portuguese ############################
-[pt-br]
+[br]
 languageName = "Português"
 title = "Pleke - App de Controle Financeiro"
-contentDir = "content/pt-br" # content/german
+contentDir = "content/br" # content/br
 weight = 2
 ########### footer content ##########
 footer_menu_left = "Suporte"

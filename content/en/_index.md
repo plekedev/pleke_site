@@ -1,4 +1,5 @@
 ---
+####################### Banner #########################
 banner:
   title: Build your Financial Freedom
   image: images/hero-img.png
@@ -6,36 +7,54 @@ banner:
   button:
     enable: true
     label: Get iPhone App
-    link: "https://apps.apple.com/pk/app/pleke-finance-manager/id1521695568"
+    link: "https://apps.apple.com/app/pleke-finance-manager/id1521695568"
   button2:
     enable: true
     label: Get Android App
     link: "https://play.google.com/store/apps/details?id=com.pleke.android_app"
+
+
+##################### Feature ##########################
 feature:
   enable: true
   title: Finances Under Control
   feature_item:
+    # feature item loop
   - name: Budget
     icon: fas fa-calendar-alt
     content: Create a budget and view how much is left per category
-  - name: Track
+
+    # feature item loop
+  - name: Expenses
     icon: fas fa-money-bill-wave
-    content: Track your expenses easily with autocomplete fields
+    content: Input your expenses easily with autocomplete fields
+
+    # feature item loop
   - name: Credit Card
     icon: fas fa-credit-card
     content: Control your credit card bill to pay it in full
-  - name: Fight Debt
+
+    # feature item loop
+  - name: Debt
     icon: fas fa-fire-alt
     content: Get rid of debt by spending less than you earn
-  - name: Watch
+
+    # feature item loop
+  - name: Balance
     icon: fas fa-file-invoice-dollar
-    content: Avoid overdraft fees watching current and projected balances of accounts
+    content: Review current and projected balances of accounts to avoid overdraft fees watching 
+
+    # feature item loop
   - name: Save
     icon: fas fa-bullseye
     content: save money for what really matters
+
+
+######################### Service #####################
 service:
   enable: true
   service_item:
+    # service item loop
   - title: Control All Accounts
     images:
     - images/screenshot-1.png
@@ -47,6 +66,8 @@ service:
       enable: false
       label: ""
       link: ""
+
+    # service item loop
   - title: Manage Credit Card Bills
     images:
     - images/screenshot-4.png
@@ -55,6 +76,8 @@ service:
       enable: false
       label: ""
       link: ""
+
+    # service item loop
   - title: Adopt a Flexible Budget
     images:
     - images/screenshot-5.png
@@ -67,6 +90,9 @@ service:
       enable: false
       label: ""
       link: ""
+
+
+##################### Call to action #####################
 call_to_action:
   enable: true
   title: Ready to get started?
@@ -76,7 +102,7 @@ call_to_action:
   button:
     enable: true
     label: Get iPhone App
-    link: "https://apps.apple.com/pk/app/pleke-finance-manager/id1521695568"
+    link: "https://apps.apple.com/app/pleke-finance-manager/id1521695568"
   button2:
     enable: true
     label: Get Android App
