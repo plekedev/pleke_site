@@ -6,7 +6,7 @@ weight = 1
 
 [[main]]
 name = "Perguntas Frequentes"
-url = "faq"
+url = "perguntas"
 weight = 2
 
 # footer menu left
@@ -21,5 +21,5 @@ url = "privacidade"
 
 # footer menu right
 [[footer_right]]
-name = "Termos e Condições"
+name = "Termos de Serviço"
 url = "termos"

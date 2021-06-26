@@ -22,7 +22,7 @@ Pleke (“Pleke”, “nós”, “nosso” ou “licenciante”) fornece ferram
 
 ## Política de Privacidade e Dados do Usuário
 
-O Pleke se preocupa com sua privacidade. A [Política de Privacidade](/br/privacidade) do Pleke descreve nossas práticas de informação, incluindo os tipos de informação que recebemos e coletamos de você e como usamos e compartilhamos essas informações. Você concorda com nossas práticas de dados, incluindo a coleta, uso, processamento e compartilhamento de suas informações conforme descrito em nossa [Política de Privacidade](//br/privacidade), bem como a transferência e processamento de suas informações para os Estados Unidos e outros países globalmente onde temos ou usamos instalações, provedores de serviços ou parceiros, independentemente de onde você usa nossos Serviços. Você reconhece que as leis, regulamentos e padrões do país em que suas informações são armazenadas ou processadas podem ser diferentes daqueles de seu próprio país.
+O Pleke se preocupa com sua privacidade. A [Política de Privacidade](/br/privacidade) do Pleke descreve nossas práticas de informação, incluindo os tipos de informação que recebemos e coletamos de você e como usamos e compartilhamos essas informações. Você concorda com nossas práticas de dados, incluindo a coleta, uso, processamento e compartilhamento de suas informações conforme descrito em nossa [Política de Privacidade](/br/privacidade), bem como a transferência e processamento de suas informações para os Estados Unidos e outros países globalmente onde temos ou usamos instalações, provedores de serviços ou parceiros, independentemente de onde você usa nossos Serviços. Você reconhece que as leis, regulamentos e padrões do país em que suas informações são armazenadas ou processadas podem ser diferentes daqueles de seu próprio país.
 
 ## Uso Aceitável de Nossos Serviços
 
@@ -122,4 +122,4 @@ Se for cidadão de qualquer país da União Europeia ou da Suíça, Noruega ou I
 
 Especificamente excluída da aplicação a este Contrato está a lei conhecida como Convenção das Nações Unidas sobre a Venda Internacional de Mercadorias.
 
-**j.** Informações de Contato. Se você tiver alguma dúvida sobre este EULA, entre em contato com a Pleke por e-mail em [support@pleke.com](mailto: support@pleke.com)
+**j.** Informações de Contato. Se você tiver alguma dúvida sobre este EULA, entre em contato com a Pleke por e-mail em [support@pleke.com](mailto:support@pleke.com)
