@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title: Construa sua Liberdade Financeira
+  title: Construa sua<br>Liberdade Financeira
   image: /br/images/hero-img.png
   content: Pague dívidas, crie uma reserva de emergência, planeje grandes compras
   button:

@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title: Build your Financial Freedom
+  title: Build your<br>Financial Freedom
   image: /images/hero-img.png
   content: Pay off debt, build an emergency fund, plan large purchases
   button:
