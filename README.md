@@ -1,4 +1,2 @@
 # pleke-site
-site for pleke a personal finance app
-
-.
+site for pleke a personal finance app.
