@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title: Construa sua Liberdade Financeira
-  image: images/hero-img.png
+  image: /br/images/hero-img.png
   content: Pague dívidas, crie uma reserva de emergência, planeje grandes compras
   button:
     enable: true
@@ -57,9 +57,9 @@ service:
     # service item loop
   - title: Controle Todas as Contas 
     images:
-    - images/screenshot-1.png
-    - images/screenshot-2.png
-    - images/screenshot-3.png
+    - /br/images/screenshot-1.png
+    - /br/images/screenshot-2.png
+    - /br/images/screenshot-3.png
     content: Consulte transações concluídas e programadas, saldo atual e projetado
       de todas as contas em um só lugar - dinheiro, contas bancárias, cartões de crédito, poupança.
     button:
@@ -70,7 +70,7 @@ service:
     # service item loop
   - title: Gerencie Faturas de Cartão de Crédito 
     images:
-    - images/screenshot-4.png
+    - /br/images/screenshot-4.png
     content: Visualize o valor da próxima fatura do cartão de crédito antes de ser fechada. Reserve
       fundos para pagar o    valor total da fatura.
     button:
@@ -81,8 +81,8 @@ service:
     # service item loop
   - title: Adote um Orçamento Flexível
     images:
-    - images/screenshot-5.png
-    - images/screenshot-6.png
+    - /br/images/screenshot-5.png
+    - /br/images/screenshot-6.png
     content: Defina um orçamento detalhado, com despesas fixas como aluguel, despesas recorrentes
       como Netflix e limites de gastos para categorias como entretenimento ou supermercado.
       Depois de inserir uma despesa, o aplicativo mostrará quanto resta para gastar em cada categoria.
@@ -98,7 +98,7 @@ service:
 call_to_action:
   enable: true
   title: Pronto para Começar?
-  image: images/cta.svg
+  image: /images/cta.svg
   content: O Pleke é gratuito para gerenciar até 5 contas.<br>
      Clique em um dos botões abaixo para acessar a loja e instalar o Pleke no seu celular!
   button:

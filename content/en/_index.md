@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title: Build your Financial Freedom
-  image: images/hero-img.png
+  image: /images/hero-img.png
   content: Pay off debt, build an emergency fund, plan large purchases
   button:
     enable: true
@@ -57,9 +57,9 @@ service:
     # service item loop
   - title: Control All Accounts
     images:
-    - images/screenshot-1.png
-    - images/screenshot-2.png
-    - images/screenshot-3.png
+    - /images/screenshot-1.png
+    - /images/screenshot-2.png
+    - /images/screenshot-3.png
     content: View completed and scheduled transactions, current and projected balance
       of all accounts in one place - money, bank accounts, credit cards, savings.
     button:
@@ -70,7 +70,7 @@ service:
     # service item loop
   - title: Manage Credit Card Bills
     images:
-    - images/screenshot-4.png
+    - /images/screenshot-4.png
     content: Preview the amount of the next credit card will before it is closed. Reserve funds to pay it in full.
     button:
       enable: false
@@ -80,8 +80,8 @@ service:
     # service item loop
   - title: Adopt a Flexible Budget
     images:
-    - images/screenshot-5.png
-    - images/screenshot-6.png
+    - /images/screenshot-5.png
+    - /images/screenshot-6.png
     content: Set a detailed budget, with fixed expenses like Rent, recurring expenses
       like Netflix and spending limits   for categories like enterteinment or groceries.
       After entering an expense the app will show how much is left to spend on each category.
@@ -96,7 +96,7 @@ service:
 call_to_action:
   enable: true
   title: Ready to get started?
-  image: images/cta.svg
+  image: /images/cta.svg
   content: Pleke is free to manage up to 5 accounts.<br>
     Click on one of the buttons below to access the store and install Pleke on your phone!
   button:
