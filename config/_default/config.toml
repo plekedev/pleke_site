@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://pleke.com/"
+baseURL = "https://pleke.com/"
 title = "Pleke - Financial Freedom"
 theme = "bigspring"
 # post pagination
