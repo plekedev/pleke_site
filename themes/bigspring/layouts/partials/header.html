@@ -34,31 +34,18 @@
           {{ end }}
 
           <!-- Language List -->
-        {{ if .IsTranslated }}
-          <is translated></is>
           <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-          {{ $siteLanguages := site.Languages}}
           {{ $pageLang := .Page.Lang}}
-          {{ range .Page.AllTranslations }}
-          {{ $translation := .}}
-          {{ range $siteLanguages }}
-          {{ if eq $translation.Lang .Lang }}
-          {{ $selected := false }}
-          {{ if eq $pageLang .Lang}}
-          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
+          {{ range $.Site.Home.AllTranslations }}
+          {{ if eq $pageLang .Language.Lang}}
+          <option id="{{ .Language }}" value="{{ .Permalink }}" selected>{{ .Language.LanguageName }}
           </option>
           {{ else }}
-          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-          {{ end }}
-          {{ end }}
+          <option id="{{ .Language }}" value="{{ .Permalink }}">{{ .Language.LanguageName }}</option>
           {{ end }}
           {{ end }}
         </select>
-        {{ else }}
-          <not translated></not>
-        {{ end }}
-        </ul>
-
+  
         {{ if site.Params.navigation_button.enable }}
         {{ with site.Params.navigation_button }}
         <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn btn-sm btn-primary ml-3">{{ .label }}</a>
