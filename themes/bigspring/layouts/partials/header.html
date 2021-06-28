@@ -35,7 +35,8 @@
 
           <!-- Language List -->
         {{ if .IsTranslated }}
-        <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+          <!-- is translated -->
+          <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
           {{ $siteLanguages := site.Languages}}
           {{ $pageLang := .Page.Lang}}
           {{ range .Page.AllTranslations }}
@@ -53,6 +54,8 @@
           {{ end }}
           {{ end }}
         </select>
+        {{ else }}
+          <!-- is not translated -->
         {{ end }}
         </ul>
 
