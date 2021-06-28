@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title: Build your<br>Financial Freedom
-  image: /images/hero-img.png
+  image: /images/hero-img.jpg
   content: Pay off debt, build an emergency fund, plan large purchases
   button:
     enable: true
@@ -57,9 +57,9 @@ service:
     # service item loop
   - title: Control All Accounts
     images:
-    - /images/screenshot-1.png
-    - /images/screenshot-2.png
-    - /images/screenshot-3.png
+    - /images/screenshot-1.jpg
+    - /images/screenshot-2.jpg
+    - /images/screenshot-3.jpg
     content: View completed and scheduled transactions, current and projected balance
       of all accounts in one place - money, bank accounts, credit cards, savings.
     button:
@@ -70,7 +70,7 @@ service:
     # service item loop
   - title: Manage Credit Card Bills
     images:
-    - /images/screenshot-4.png
+    - /images/screenshot-4.jpg
     content: Preview the amount of the next credit card will before it is closed. Reserve funds to pay it in full.
     button:
       enable: false
@@ -80,8 +80,8 @@ service:
     # service item loop
   - title: Adopt a Flexible Budget
     images:
-    - /images/screenshot-5.png
-    - /images/screenshot-6.png
+    - /images/screenshot-5.jpg
+    - /images/screenshot-6.jpg
     content: Set a detailed budget, with fixed expenses like Rent, recurring expenses
       like Netflix and spending limits   for categories like enterteinment or groceries.
       After entering an expense the app will show how much is left to spend on each category.
