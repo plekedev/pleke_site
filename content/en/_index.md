@@ -97,7 +97,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: /images/cta.svg
-  content: Pleke is free to manage up to 5 accounts.<br>
+  content: Pleke is free to manage up to 4 accounts.<br>
     Click on one of the buttons below to access the store and install Pleke on your phone!
   button:
     enable: true

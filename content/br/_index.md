@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title: Construa sua<br>Liberdade Financeira
+  title: Saia do Vermelho
   image: /br/images/hero-img.jpg
-  content: Pague dívidas, crie uma reserva de emergência, planeje grandes compras
+  content: Crie um orçamento, controle as despesas e crie uma reserva de emergência
   button:
     enable: true
     label: Baixe App para iPhone
@@ -99,7 +99,7 @@ call_to_action:
   enable: true
   title: Pronto para Começar?
   image: /images/cta.svg
-  content: O Pleke é gratuito para gerenciar até 5 contas.<br>
+  content: O Pleke é gratuito para gerenciar até 4 contas.<br>
      Clique em um dos botões abaixo para acessar a loja e instalar o Pleke no seu celular!
   button:
     enable: true
