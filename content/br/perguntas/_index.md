@@ -8,7 +8,7 @@ draft: false
 
 
 {{< faq "O Pleke é gratuito?" >}}
-A versão gratuita é limitada para gerenciar 5 contas e exibe anúncios. Uma assinatura Premium remove anúncios e limites de conta.
+A versão gratuita é limitada para gerenciar 4 contas e exibe anúncios. Uma assinatura Premium remove anúncios e limites de conta.
 {{</ faq >}}
 
 {{< faq "Como faço para configurar meu orçamento?" >}}

@@ -8,7 +8,7 @@ draft: false
 
 
 {{< faq "Is Pleke free?" >}}
-The free version is limited to manage 5 accounts and displays advertisements. A Premium subscription removes ads and account limits.
+The free version is limited to manage 4 accounts and displays advertisements. A Premium subscription removes ads and account limits.
 {{</ faq >}}
 
 {{< faq "How do I setup my budget?" >}}
