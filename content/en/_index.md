@@ -55,6 +55,20 @@ service:
   enable: true
   service_item:
     # service item loop
+  - title: Adopt a Flexible Budget
+    images:
+    - /images/screenshot-5.jpg
+    - /images/screenshot-6.jpg
+    content: Set a detailed budget, with fixed expenses like Rent, recurring expenses
+      like Netflix and spending limits   for categories like enterteinment or groceries.
+      After entering an expense the app will show how much is left to spend on each category.
+      If you overspend, move funds between categories to stay on budget.
+    button:
+      enable: false
+      label: ""
+      link: ""
+
+    # service item loop
   - title: Control All Accounts
     images:
     - /images/screenshot-1.jpg
@@ -72,20 +86,6 @@ service:
     images:
     - /images/screenshot-4.jpg
     content: Preview the amount of the next credit card will before it is closed. Reserve funds to pay it in full.
-    button:
-      enable: false
-      label: ""
-      link: ""
-
-    # service item loop
-  - title: Adopt a Flexible Budget
-    images:
-    - /images/screenshot-5.jpg
-    - /images/screenshot-6.jpg
-    content: Set a detailed budget, with fixed expenses like Rent, recurring expenses
-      like Netflix and spending limits   for categories like enterteinment or groceries.
-      After entering an expense the app will show how much is left to spend on each category.
-      If you overspend, move funds between categories to stay on budget.
     button:
       enable: false
       label: ""

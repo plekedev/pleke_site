@@ -55,6 +55,21 @@ service:
   enable: true
   service_item:
     # service item loop
+  - title: Adote um Orçamento Flexível
+    images:
+    - /br/images/screenshot-5.jpg
+    - /br/images/screenshot-6.jpg
+    content: Defina um orçamento detalhado, com despesas fixas como aluguel, despesas recorrentes
+      como Netflix e limites de gastos para categorias como entretenimento ou supermercado.
+      Depois de inserir uma despesa, o aplicativo mostrará quanto resta para gastar em cada categoria.
+      Se você ultrapassar o limite de gastos, mova fundos entre categorias para permanecer
+      dentro do orçamento. 
+    button:
+      enable: false
+      label: ""
+      link: ""
+
+    # service item loop
   - title: Controle Todas as Contas 
     images:
     - /br/images/screenshot-1.jpg
@@ -73,21 +88,6 @@ service:
     - /br/images/screenshot-4.jpg
     content: Visualize o valor da próxima fatura do cartão de crédito antes de ser fechada. Reserve
       fundos para pagar o    valor total da fatura.
-    button:
-      enable: false
-      label: ""
-      link: ""
-
-    # service item loop
-  - title: Adote um Orçamento Flexível
-    images:
-    - /br/images/screenshot-5.jpg
-    - /br/images/screenshot-6.jpg
-    content: Defina um orçamento detalhado, com despesas fixas como aluguel, despesas recorrentes
-      como Netflix e limites de gastos para categorias como entretenimento ou supermercado.
-      Depois de inserir uma despesa, o aplicativo mostrará quanto resta para gastar em cada categoria.
-      Se você ultrapassar o limite de gastos, mova fundos entre categorias para permanecer
-      dentro do orçamento. 
     button:
       enable: false
       label: ""
