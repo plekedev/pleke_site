@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title: Saia do Vermelho
-  image: /br/images/hero-img.jpg
+  image: /br/images/hero-img.png
   content: Crie um orçamento, controle as despesas e crie uma reserva de emergência
   button:
     enable: true
@@ -57,8 +57,8 @@ service:
     # service item loop
   - title: Adote um Orçamento Flexível
     images:
-    - /br/images/screenshot-5.jpg
-    - /br/images/screenshot-6.jpg
+    - /br/images/screenshot-5.png
+    - /br/images/screenshot-6.png
     content: Defina um orçamento detalhado, com despesas fixas como aluguel, despesas recorrentes
       como Netflix e limites de gastos para categorias como entretenimento ou supermercado.
       Depois de inserir uma despesa, o aplicativo mostrará quanto resta para gastar em cada categoria.
@@ -72,9 +72,9 @@ service:
     # service item loop
   - title: Controle Todas as Contas 
     images:
-    - /br/images/screenshot-1.jpg
-    - /br/images/screenshot-2.jpg
-    - /br/images/screenshot-3.jpg
+    - /br/images/screenshot-1.png
+    - /br/images/screenshot-2.png
+    - /br/images/screenshot-3.png
     content: Consulte transações concluídas e programadas, saldo atual e projetado
       de todas as contas em um só lugar - dinheiro, contas bancárias, cartões de crédito, poupança.
     button:
@@ -85,7 +85,7 @@ service:
     # service item loop
   - title: Gerencie Faturas de Cartão de Crédito 
     images:
-    - /br/images/screenshot-4.jpg
+    - /br/images/screenshot-4.png
     content: Visualize o valor da próxima fatura do cartão de crédito antes de ser fechada. Reserve
       fundos para pagar o    valor total da fatura.
     button:
