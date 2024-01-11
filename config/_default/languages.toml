@@ -10,7 +10,7 @@ footer_menu_middle = "Privacy"
 footer_menu_right = "Terms of Use"
 footer_content = "Personal Finance App"
 # copyright
-copyright = "Copyright 2020-2021 Mauricio Macedo"
+copyright = "Copyright 2020-2024 Mauricio Macedo"
 
 ############################# Portuguese ############################
 [br]
@@ -24,4 +24,4 @@ footer_menu_middle = "Privacidade"
 footer_menu_right = "Termos de Uso"
 footer_content = "App de Controle Financeiro"
 # copyright
-copyright = "Copyright 2020-2021 Mauricio Macedo"
+copyright = "Copyright 2020-2024 Mauricio Macedo"
